@@ -59,6 +59,11 @@ END
 ### OUTPUT:
 ![WhatsApp Image 2025-10-24 at 20 54 32_730c13a1](https://github.com/user-attachments/assets/ca93dd07-b367-4b0c-91bb-8f830047980b)
 
+### MANUAL CALCULATION:
+
+ * Clock freq = 11.0592 MHz → 1 machine cycle ≈ 1.085 µs =5000 × 1.085 µs ≈ 5.425 ms
+ * Delay=5425μs=5.425ms
+
 ### RESULT:
  Thus, the 8051 Assembly Language Program to blink an LED with a 50 ms delay using Timer1 in Mode1
  was successfully written  and simulated using Keil µVision.
