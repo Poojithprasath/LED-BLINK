@@ -1,7 +1,7 @@
 # LED-TOGGLE
 
 ## AIM:
-Write an assembly language program in 8051 to generate a 5 ms delay using Timer 1 in Mode 1 and toggle an LED connected to Port 1.7 continuously
+To Write an assembly language program in 8051 to generate a 5 ms delay using Timer 1 in Mode 1 and toggle an LED connected to Port 1.7 continuously
 
 ## APPARATUS REQUIRED
 - Personal Computer  
